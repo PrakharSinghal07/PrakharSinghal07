@@ -1,52 +1,29 @@
-# 👋 Hi, I'm Prakhar Singhal
+# 👋 Hi there! I'm Prakhar Singhal
 
-🎓 Final-year Computer Science student at JECRC College, Jaipur  
-💼 Interning at **Hewlett Packard Enterprise** on the **HPECTY LCM Assistant Chatbot**  
-🌱 Currently learning **Node**, **React**, and preparing for **software engineering interviews**
+Welcome to my GitHub! I'm a Computer Science undergrad and aspiring Software Engineer passionate about building practical, impactful tech.
 
----
+## 🚀 What I’m Working On
+- 🔧 **Orbit** – an AI-powered lifecycle management chatbot for service engineers (React + FastAPI)
+- 💬 Full-stack development with a focus on chatbot UIs and backend integration
+- 📚 Learning DSA, system design, and core CS subjects for upcoming placements
 
 ## 🛠️ Tech Stack
+- **Languages**: JavaScript | TypeScript | Python | C++
+- **Frontend**: React.js | Tailwind CSS | Vite | HTML/CSS
+- **Backend**: FastAPI | Express.js | Node.js | MongoDB
+- **Tools**: Git & GitHub | VS Code | Postman | Netlify | Render
 
-**Languages:**  
-`Python` | `JavaScript` | `C++` | `Java` | `TypeScript`
+## 📌 Interests
+- 💡 Building AI assistants and real-world full-stack apps
+- 🎮 Gaming, 🎬 Watching thrillers, 👨‍💻 Programming
 
-**Frameworks & Libraries:**  
-`React.js` | `FastAPI` | `Node.js` | `Express.js` | `MongoDB`
-
-**Tools & Platforms:**  
-`Git` | `GitHub` | `Postman` | `VS Code` | `Vercel` | `Netlify`
-
----
-
-## 🚀 Projects
-
-### 🔹 HPECTY – LCM Assistant Chatbot  
-An AI-powered assistant for service engineers to troubleshoot cluster-level and node-level issues.  
-🔧 Stack: **React**, **FastAPI**, **MongoDB**  
-⭐ Features: Real-time suggestions, chat history, log analysis, dynamic sidebar
-
-### 🔹 Book Library System  
-A complete CRUD + Auth web app for managing books and users.  
-🔧 Stack: **Node.js**, **Express**, **MongoDB**, **JWT Auth**, **React (frontend)**
-
----
-
-## 📈 GitHub Stats
-
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakharSinghal&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharSinghal&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/prakharsinghal13)
-- 💬 Ask me about **React, FastAPI, or internship prep**
-- 📧 Email: prakharsinghal@example.com *(replace with actual)*
+## 📫 Let’s Connect!
+- 📧 Email: prakharsinghalrishu@gmail.com
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prakhar-singhal-0a6651247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🌐 [Portfolio](https://prakharsinghal.netlify.app/)
 
 ---
 
 > "Consistency > Perfection"
+
 
