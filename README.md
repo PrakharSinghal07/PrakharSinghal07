@@ -13,13 +13,11 @@ Welcome to my GitHub! I'm a Computer Science undergrad and aspiring Software Eng
 - **Backend**: FastAPI | Express.js | Node.js | MongoDB
 - **Tools**: Git & GitHub | VS Code | Postman | Netlify | Render
 
-![Prakhar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=prakharsinghal07&theme=vue-dark&hide_border=true)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=prakharsinghal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=prakharsinghal07&theme=dark&show_icons=true&hide_border=true&count_private=true))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prakharsinghal07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsinghal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ## 📌 Interests
