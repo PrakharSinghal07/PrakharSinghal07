@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a Computer Science undergrad and aspiring Software Eng
 
 ## 📫 Let’s Connect!
 - 📧 Email: prakharsinghalrishu@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prakhar-singhal-0a6651247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 💼 [LinkedIn](https://www.linkedin.com/in/prakhar-singhal-0a6651247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 [Portfolio](https://prakharsinghal.netlify.app/)
 
 ---
