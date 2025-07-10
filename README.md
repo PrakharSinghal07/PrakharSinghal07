@@ -15,7 +15,8 @@ Welcome to my GitHub! I'm a Computer Science undergrad and aspiring Software Eng
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=prakharsinghal07&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/> <br/> 
+![](https://github-readme-stats.vercel.app/api?username=prakharsinghal07&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800) <br/><br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prakharsinghal07&theme=dark&hide_border=false)<br/><br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsinghal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> <br/> 
 
